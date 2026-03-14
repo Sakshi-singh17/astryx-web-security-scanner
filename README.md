@@ -1,4 +1,8 @@
 # 🛡️ Astryx
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![License](https://img.shields.io/badge/License-MIT-green)
+![Security Tool](https://img.shields.io/badge/Type-Web%20Security%20Scanner-red)
+![Status](https://img.shields.io/badge/Status-Active-success)
 
 **🚀 Find vulnerabilities before attackers do🚀**
 
