@@ -1,0 +1,36 @@
+# 🔹 Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# 🔹 Virtual environment
+venv/
+env/
+ENV/
+.venv/
+
+# 🔹 VS Code settings
+.vscode/
+
+# 🔹 OS files
+.DS_Store
+Thumbs.db
+
+# 🔹 Logs & reports (important for your project)
+*.log
+reports/
+output/
+
+# 🔹 Environment variables (VERY IMPORTANT)
+.env
+
+# 🔹 Temporary files
+*.tmp
+*.swp
+
+# 🔹 Test / coverage
+.coverage
+htmlcov/
+
+# 🔹 Jupyter (if used later)
+.ipynb_checkpoints/
