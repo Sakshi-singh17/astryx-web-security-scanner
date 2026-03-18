@@ -1,4 +1,5 @@
 from modules.header_scanner import check_headers
+from modules.directory_scanner import scan_directories
 
 def start_scan(url):
     print("\n🛡️ Astryx v1.0")
@@ -19,6 +20,9 @@ def start_scan(url):
     if "Server" in headers:
         print("\n[!] Server Information Disclosure:")
         print(" -", headers["Server"])
+
+    #  Directory Scan 
+    scan_directories(url)
 
     print("\nScan Completed ✅")
 
