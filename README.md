@@ -97,7 +97,8 @@ pip install -r requirements.txt
 
 Run the scanner using:
 
-python scanner/scanner.py https://example.com
+python -m scanner.scanner
+Enter url : http://www.example.com
 
 Example output:
 
