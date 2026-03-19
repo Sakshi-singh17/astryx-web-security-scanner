@@ -1,0 +1,12 @@
+admin
+login
+dashboard
+backup
+api
+test
+config
+.env
+uploads
+images
+js
+css
